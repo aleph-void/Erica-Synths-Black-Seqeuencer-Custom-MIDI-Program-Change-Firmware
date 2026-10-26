@@ -224,3 +224,9 @@ The output image contains Erica Synths' firmware. Share the **scripts and
 sources**, which contain no vendor code, not the generated `.BIN`. Each user
 builds their own image from the official 1.06 download. Erica Synths does
 not endorse or support this project. You flash it at your own risk.
+
+## License
+
+The scripts, patch sources and documentation in this repository are licensed
+under the MIT License (see [LICENSE](LICENSE)). The license does not cover
+the Erica Synths firmware, which is neither included here nor redistributed.
