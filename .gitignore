@@ -1,0 +1,7 @@
+build/
+__pycache__/
+
+# Vendor files: never commit. Users supply their own official 1.06 image.
+*.BIN
+*.bin
+*.pdf
