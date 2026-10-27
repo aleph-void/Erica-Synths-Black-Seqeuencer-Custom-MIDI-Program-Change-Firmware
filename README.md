@@ -2,7 +2,7 @@
 
 [![Sponsor Aleph Void](https://img.shields.io/badge/Sponsor-Aleph%20Void-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/aleph-void)
 
-A patch for the Erica Synths Black Sequencer (EBS) firmware **1.06**. It adds
+A patch for the Erica Synths Black Sequencer (EBS) firmware **1.06** [here](https://erp.ericasynths.lv/media/EBSEQ_V1_06_7824E1DD.BIN). It adds
 one feature: **incoming MIDI Program Change messages select EBS patterns.**
 An MPC, Octatrack or other external sequencer can then change EBS patterns
 while it clocks the EBS.
